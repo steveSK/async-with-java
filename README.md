@@ -1,2 +1,2 @@
-# async-with-java
-Example How to use Asynchronous and Concurrent Programming in Java using Completable Futures
+# Asynchronous programming using Completable futures
+Small example how to provide asynchronous API using Completable Futures
